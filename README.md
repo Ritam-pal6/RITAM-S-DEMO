@@ -1,3 +1,4 @@
 # RITAM-S-DEMO
 This is my first Git Repository
-Author- Ritam Pal
+Author- Ritam Krishna Pal
+ 
